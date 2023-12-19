@@ -42,7 +42,7 @@ public class Amstrong {
 	
 	
 
-	private static int power(int rem, int length) 
+	public static int power(int rem, int length) 
 	{
 		int power=1;
 		for (int i=0;i<length;i++)
